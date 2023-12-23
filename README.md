@@ -12,7 +12,7 @@ Functions:
 - Dump ConsoleID
 - Unblock PSN Servers (Riski for CFW users with no wiped syscalls)
 - Block PSN Servers
-- Try Patching Game License (Beta)
+- ~~Try Patching Game License (Beta)~~
 
 Compatibility:
 - HFW 4.90.1 (Tested)
@@ -21,5 +21,5 @@ Compatibility:
 
 For CFW users:
 - There is maybe a problem with some features because they use the HEN Based PS3MAPI (HEN version from CCAPI),
-- I wanna made a custom Version for CFW useres where it is fixed soon.
+- ~~I wanna made a custom Version for CFW useres where it is fixed soon.~~
 - The most tools sould work with both!
